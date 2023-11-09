@@ -3,15 +3,19 @@
 
 
 Deployed Link: https://zee-flix.netlify.app/
-Our Website Name is:-> Adventure Store for you
-We Used Cyclic for Product API
+Zee Flix is OTT Platform website where you can stream unlimited TV Shows, Movies etc.
 For making admin site and login register functionality, we use firebase.
 Functionality:
 1) Login
+   
 2)Register
+
 3) Admin Login
+   
 4)Add the product from admin side
+
 5)Add to cart
+
 6)See the detail and color option for particular Product.
 
 EMS.com- sports product based e-commerce website
