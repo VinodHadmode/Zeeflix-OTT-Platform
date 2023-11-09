@@ -1,8 +1,8 @@
-# evil-jellyfish-2990
+# Zeeflix - OTT Platform
 
 
 
-Deployed Link---- https://eastern-mountain-sport.vercel.app/
+Deployed Link: https://zee-flix.netlify.app/
 Our Website Name is:-> Adventure Store for you
 We Used Cyclic for Product API
 For making admin site and login register functionality, we use firebase.
