@@ -32,7 +32,7 @@ setInterval(slides, 3000);
 
 let bag = [];
 
-let data = fetch("https://63987501fe03352a94d1a25b.mockapi.io/home1")
+let data = fetch("https://6399a21316b0fdad7743a496.mockapi.io/movies")
     .then((res) => res.json())
     .then((data) => {
         // console.log(data)
