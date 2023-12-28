@@ -48,7 +48,7 @@ function displayData (data) {
     data.forEach((ele) => {
         let div = document.createElement("div");
         let img = document.createElement("img");
-        img.src = ele.imgurl;
+        img.src = ele.image;
 
         let title = document.createElement("h3");
         title.innerText = ele.title;
